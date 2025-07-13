@@ -1,0 +1,23 @@
+body {
+  /* margin: 0; */
+  font-family: sans-serif;
+  /* background: linear-gradient(to bottom, #f0fdf4, #eff6ff);
+  overflow: hidden; */
+  background-color: rgb(239, 249, 239);
+}
+/* .app-wrapper {
+  min-height: 100vh;
+}
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: calc(100vh - 68px);
+}
+.section {
+  background: white;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+} */

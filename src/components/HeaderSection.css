@@ -1,0 +1,51 @@
+.section {
+  width: 40%;
+  padding: 20px;
+  margin-left: 30%;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 13px;
+  
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-center h1 {
+  font-size: 34px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.text-center p {
+  color: #555;
+  font-size: 16px;
+}
+.weather-btn{
+    background-color: #064e3b;
+    color: white;
+    padding: 8px;
+   border-radius: 5px;
+}
+/* 
+.get-weather-btn {
+  margin-top: 15px;
+  background-color: #047857;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+  transition: 0.3s ease;
+}
+
+.get-weather-btn i {
+  margin-right: 8px;
+}
+
+.get-weather-btn:hover {
+  background-color: #065f46;
+} */
