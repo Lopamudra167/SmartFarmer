@@ -15,7 +15,6 @@ export default function Footer() {
           <a href="#"><i className="fab fa-instagram"></i></a>
         </div>
       </div>
-      <br/>
       <p className="footer-bottom">&copy; 2025 AgroSmart. All rights reserved.</p>
     </footer>
   );

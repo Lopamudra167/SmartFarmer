@@ -38,8 +38,13 @@
   color: white;
 }
 
-.footer-bottom {
-  margin-top: 16px;
-  font-size: 12px;
-  color: #9ca3af;
+
+ .footer-bottom {
+  border: none;
+  border-top: 1px solid rgb(228, 227, 227);
+ padding-top: 15px;
+  width: 100%;
+
 }
+
+

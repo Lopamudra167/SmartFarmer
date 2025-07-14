@@ -1,6 +1,6 @@
 import './Navbar.css';
 
-export default function Navbar() {
+export default function Navbar({ onDetectFarm }) {
   return (
     <nav className="navbar">
       <div className="navbar-content">
@@ -8,7 +8,7 @@ export default function Navbar() {
           <i className="fas fa-tractor"></i>
           <span>AgroSmart</span>
         </div>
-        <button className="detect-btn">
+        <button className="detect-btn" onClick={onDetectFarm}>
           <i className="fas fa-location-dot"></i>
           <span>Detect Farm</span>
         </button>
